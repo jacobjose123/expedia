@@ -1,0 +1,32 @@
+{
+	"name": "Expedia 4 U",
+	"enabled": true,
+	"icon": 230,
+	"team": "TechMasters",
+	"team-email": "sprem@expedia.com",
+	"slack-channel": "#hackathon7techmasters",
+	"tag-line": " Categorizing customers based on their field of interests like in sports, pilgrimage, gambling, shopping festivals etc, giving them scintillating offers they can't refuse at the time they are most vulnerable to submit to their interests, pushing some of those hesitant customers to go ahead, thereby increasing customer involvement and company revenue.",
+	"links": [
+		{
+			"name": "Add any link that helps document or demo your project. DO NOT put your github repo, we will do that for you.",
+			"url": "http://<link_url>"
+		},
+		{
+			"name": "TechMasters",
+			"url": "http://launchpad.int.expedia.com/hackathon/hackathon-7-0/team/techmasters/"
+		}
+	],
+	"tags": [
+		"Hackathon 7.0"
+	],
+	"contributors": [
+		"nvarghese",
+		"tthomas1",
+		"asatish",
+		"jajose",
+		"smurarkar",
+		"sprem",
+		"amohanan",
+		"gxavier"
+	]
+}

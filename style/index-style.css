@@ -1,0 +1,49 @@
+#expedia-offers-cricket {
+    float: left;
+    border: 1px black solid;
+    height: inherit;
+    width: 100%;
+    background-image: url('../images/ICC-Cricket.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#banner{
+	
+	padding-left: -20px;
+}
+
+#expedia-offers-olympics {
+    float: left;
+    border: 1px black solid;
+    height: inherit;
+    width: 100%;
+    background-image: url('../images/bjolympics.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+
+
+
+#expedia-offers-wimbeldon {
+    float: left;
+    border: 1px black solid;
+    height: inherit;
+    width: 100%;
+    background-image: url('../images/WIMBLEDON1-new.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+#offer-zone {
+    padding-left:10px;
+    height: 250px;
+	border-style: none;
+}
+
+#div-expedia-regular-content{
+    /*padding-left:150px;*/
+    height: 55%;
+    width: 80%;
+
+}
